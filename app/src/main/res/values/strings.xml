@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPedometer</string>
+    <string name="goal_10000">Goal: 10000</string>
+    <string name="kilometer">公里</string>
+    <string name="calorie">卡路里</string>
+    <string name="time">时间</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+</resources>
